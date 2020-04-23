@@ -6,6 +6,8 @@ Am implementat soluția iar aici este output-ul:
 
 ### Ruta către IP1
 ```
+www.intoday.in - India
+
 154.14.32.129 - Meyrin, Geneva, Elvetia
 89.149.136.121 - Neu Isenburg, Hesse, Germania
 46.33.83.254 - Alfortville, Île-de-France, Franta
@@ -15,6 +17,10 @@ Am implementat soluția iar aici este output-ul:
 129.250.2.240 - Englewood, Colorado, Usa
 116.51.17.140 - Tokio, Tokio, Japonia
 52.93.10.7 - Singapore, Singapore, Japonia
+52.93.11.55 - Singapore, Singapore, Japonia
+52.93.11.52 - Singapore, Singapore, Japonia
+52.93.8.73 - Singapore, Singapore, Japonia
+52.93.10.75 - Singapore, Singapore, Japonia
 ```
 
 ### Ruta către IP2
