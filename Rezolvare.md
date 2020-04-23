@@ -6,7 +6,7 @@ Am implementat soluția iar aici este output-ul:
 
 ### Ruta către IP1
 ```
-IP154.14.32.129 - Meyrin, Geneva, Elvetia
+154.14.32.129 - Meyrin, Geneva, Elvetia
 89.149.136.121 - Neu Isenburg, Hesse, Germania
 46.33.83.254 - Alfortville, Île-de-France, Franta
 129.250.6.13 - Englewood, Colorado, Usa
